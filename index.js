@@ -135,6 +135,9 @@ function Transformer(options) {
       if (self._skip > 0) return;
 
       self.push(value);
+    },
+    oncomment: function (value) {
+      self.push('<!--' + value + '-->');
     }
   }); 
 
