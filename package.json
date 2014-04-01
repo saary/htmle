@@ -1,0 +1,23 @@
+{
+  "name": "htmle",
+  "version": "0.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "htmlparser2": "~3.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "html",
+    "stream",
+    "transformer"
+  ],
+  "author": "saary",
+  "license": "MIT"
+}
