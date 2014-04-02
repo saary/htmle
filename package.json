@@ -1,9 +1,10 @@
 {
   "name": "htmle",
-  "version": "0.0.0",
-  "description": "0.0.1",
+  "version": "0.0.1",
+  "description": "Streaming html transformer",
   "main": "index.js",
   "directories": {
+    "example": "example",
     "test": "test"
   },
   "dependencies": {
@@ -19,5 +20,13 @@
     "transformer"
   ],
   "author": "saary",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/saary/htmle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saary/htmle/issues"
+  },
+  "homepage": "https://github.com/saary/htmle"
 }
