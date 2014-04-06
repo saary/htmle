@@ -1,6 +1,6 @@
 {
   "name": "htmle",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Streaming html transformer",
   "main": "index.js",
   "directories": {
